@@ -6,7 +6,7 @@ Looks like apart from French or German, HTML, CSS and JavaScript will be the new
 - 🌱 I’m currently focusing on the basics of web development. Mostly front-end materials. 
 - :purple_heart: I think when I am ready, I'll know when to look for collaboration. Not so desperately seeking frinds, but I'd like to meet you! 
 If my profile ever get to your attention, I mean.
-- 📫 Flick me a message: <a href="mailto:29014782+paolafizz@users.noreply.github.com">Email</a>
+- 📫 Flick me a message: <a href="29014782+kayajammin@users.noreply.github.com">Email</a>
 <!---
 paolafizz/paolafizz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
