@@ -1,5 +1,5 @@
 👋 Hi there
-- :palm_tree: I’m @paolafizz. Feel free to just call me Paola. Fairly new to the coding world. 
+- :palm_tree: I’m @kayajammin. Feel free to just call me Paola. Fairly new to the coding world. 
 And this is the first time I'm taking it seriously after my uni graduation. Based in Perth at the moment.
 - :earth_asia: Learning language is always part of my interests. When I self-learn a language, I have to read it out loud without caring my imperfect pronouciation; love to write down new words I learn from anything as well. 
 Looks like apart from French or German, HTML, CSS and JavaScript will be the new scribbles on my A4 paper. In my spare time, I enjoy watching films, and cycle or job a bit.
